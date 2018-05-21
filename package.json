@@ -1,0 +1,28 @@
+{
+  "name": "fsc-mn-mover",
+  "version": "1.0.0",
+  "description": "A fund manager and MN Collateral tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidaru/fsc-mn-mover.git"
+  },
+  "keywords": [
+    "nodejs",
+    "friendshipcoin"
+  ],
+  "author": "vidaru <vidaru@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidaru/fsc-mn-mover/issues"
+  },
+  "homepage": "https://github.com/vidaru/fsc-mn-mover#readme",
+  "dependencies": {
+    "expand-tilde": "^2.0.2",
+    "fs-extra": "^6.0.1",
+    "jayson": "^2.0.6"
+  }
+}

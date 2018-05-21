@@ -1,0 +1,8 @@
+{
+  "env": {
+    "COIN_RPC_USER": "user",
+    "COIN_RPC_PORT": "58009",
+    "COIN_RPC_PASS": "*",
+    "COIN_RPC_URL": "127.0.0.1"
+  }
+}
